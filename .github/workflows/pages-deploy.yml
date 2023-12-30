@@ -1,4 +1,5 @@
 name: "Build and Deploy"
+
 on:
   push:
     branches:
@@ -41,8 +42,8 @@ jobs:
 
       - name: Install dependencies
         run: |
-        gem install google-protobuf -v '3.25.1'
-        bundle install
+          gem install google-protobuf -v '3.25.1'
+          bundle install
 
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
