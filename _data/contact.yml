@@ -13,6 +13,7 @@
 # - type: rss
 #   icon: "fas fa-rss"
 #   noblank: true
+
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
@@ -26,3 +27,4 @@
 - type: stack-overflow
   icon: 'fab fa-stack-overflow'
   url:  'https://stackoverflow.com/users/4093110/dragos-geornoiu' # Fill with your stackoverflow homepage
+
