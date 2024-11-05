@@ -19,4 +19,9 @@ package-lock.json
 .vscode
 
 # Misc
+.vscode/*
+!.vscode/settings.json
+!.vscode/extensions.json
+!.vscode/tasks.json
+_sass/dist
 assets/js/dist
