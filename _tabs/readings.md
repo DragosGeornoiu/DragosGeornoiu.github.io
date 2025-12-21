@@ -1,5 +1,9 @@
 ### Developer Books – Reading Notes
 
+> 🕒 **Last updated:** December 21, 2025
+
+---
+
 This is a list of books I’ve read over the years and found genuinely useful in my work as a software developer.
 
 These are not summaries. Just short notes on why a book stuck with me and when it tends to be useful.
