@@ -3,8 +3,6 @@ icon: fas fa-info-circle
 order: 1
 ---
 
-### Developer Books – Reading Notes
-
 > 🕒 **Last updated:** December 21, 2025
 
 ---
