@@ -8,7 +8,7 @@ categories: [Personal-Projects, Investing, Engineering]
 
 Over the past weeks I built a small web application that helps me track a personal BVB portfolio against the BET index and understand how to invest additional cash in a way that stays close to the index over time.
 
-You can check out the project here: [https://github.com/DragosGeornoiu/bvb-index-distribution](https://github.com/DragosGeornoiu/bvb-index-distribution)
+You can check out the project here: [https://dragosgeornoiu.github.io/bvb-index-distribution](https://dragosgeornoiu.github.io/bvb-index-distribution)
 
 And more can be read in the repository README: 
 [https://github.com/DragosGeornoiu/bvb-index-distribution](https://github.com/DragosGeornoiu/bvb-index-distribution)
@@ -70,6 +70,8 @@ It allows:
 
 The emphasis is on transparency: all intermediate numbers are visible. This makes it easy to sanity-check results and adjust the algorithm when something feels off.
 
+![tracker-page.png](../assets/img/2025-12-23-bet-index-tracker/2025-12-23-bet-index-tracker-main-page.png)
+
 ---
 
 ### Allocation History
@@ -84,6 +86,7 @@ This page:
 
 Seeing abrupt changes (for example, a sudden increase in TLV weight) provides useful context for why a portfolio might drift even without any trading activity.
 
+![allocation-history.png](../assets/img/2025-12-23-bet-index-tracker/2025-12-23-bet-index-tracker-allocation-page.png)
 ---
 
 ### Data Coverage
@@ -96,6 +99,8 @@ It shows:
 - direct links to each CSV file
 
 Its main purpose is trust and debuggability. When results look unexpected, it is easy to verify exactly which data was used.
+
+![data-coverage.png](../assets/img/2025-12-23-bet-index-tracker/2025-12-23-bet-index-tracker-data-coverage.png)
 
 ---
 
@@ -140,6 +145,8 @@ The parser:
 - ignores totals and summary rows
 
 Internally, this is converted to the same structure as the CSV upload.
+
+![import-copy-paster.png](../assets/img/2025-12-23-bet-index-tracker/2025-12-23-bet-index-tracker-import-copy-paster-page.png)
 
 ---
 
