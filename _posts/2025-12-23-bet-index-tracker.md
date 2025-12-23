@@ -8,10 +8,10 @@ categories: [Personal-Projects, Investing, Engineering]
 
 Over the past weeks I built a small web application that helps me track a personal BVB portfolio against the BET index and understand how to invest additional cash in a way that stays close to the index over time.
 
-You can check out the project here:
-https://github.com/DragosGeornoiu/bvb-index-distribution
+You can check out the project here: [https://github.com/DragosGeornoiu/bvb-index-distribution](https://github.com/DragosGeornoiu/bvb-index-distribution)
 
-And more can be read on the README.md of the github repository, as it's public: https://github.com/DragosGeornoiu/bvb-index-distribution
+And more can be read in the repository README: 
+[https://github.com/DragosGeornoiu/bvb-index-distribution](https://github.com/DragosGeornoiu/bvb-index-distribution)
 
 The live app is hosted as a GitHub Pages site and is entirely static.
 
